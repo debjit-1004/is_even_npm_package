@@ -1,0 +1,22 @@
+{
+  "name": "@debjit_kundu/is-even",
+  "version": "1.0.0",
+  "description": "Is the number even",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debjit-1004/is_even_npm_package.git"
+  },
+  "keywords": [
+    "DeK"
+  ],
+  "author": "debjit kundu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/debjit-1004/is_even_npm_package/issues"
+  },
+  "homepage": "https://github.com/debjit-1004/is_even_npm_package#readme"
+}
